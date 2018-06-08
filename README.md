@@ -28,3 +28,7 @@ Unity 2018.1 / .NET 4.6モードで実行してください。
 ## 有料アセット
 
  * [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290) 
+
+# 配布ライセンス
+
+CC0
