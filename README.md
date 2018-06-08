@@ -32,3 +32,15 @@ Unity 2018.1 / .NET 4.6モードで実行してください。
 # 配布ライセンス
 
 CC0
+
+# 権利表記
+
+* UniRx Copyright (c) 2014 Yoshifumi Kawai https://github.com/neuecc/UniRx/blob/master/LICENSE
+
+* Zenject Copyright (c) 2016 Modest Tree Media Inc https://github.com/modesttree/Zenject/blob/master/License.md
+
+* UniVRM  
+ Copyright (c) 2018 DWANGO Co., Ltd. for UniVRM  
+ Copyright (c) 2018 ousttrue for UniGLTF, UniHumanoid  
+ Copyright (c) 2018 Masataka SUMI for MToon  
+ https://github.com/dwango/UniVRM/blob/master/LICENSE.txt
