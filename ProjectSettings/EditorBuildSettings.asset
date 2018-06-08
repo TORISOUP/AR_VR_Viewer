@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/VrmArPlayer/Scenes/TitleScene.unity
+    guid: a322ba28d0c4b914e9b367e6d4d48635
+  - enabled: 1
+    path: Assets/VrmArPlayer/Scenes/ForPC.unity
+    guid: 388197b4c6dd3f24dbcffb58353c6ca7
+  - enabled: 1
+    path: Assets/VrmArPlayer/Scenes/ForSmartphone.unity
+    guid: 9171f331b1d4a4c4b83821450abf84be
+  - enabled: 1
+    path: Assets/VrmArPlayer/Scenes/ARCoreScene.unity
+    guid: b2741bd6ecbb93944b2e80a56da2cfab
+  m_configObjects: {}
